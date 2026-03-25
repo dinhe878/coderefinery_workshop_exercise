@@ -1,3 +1,2 @@
 .venv/
-docs/_build/
-docs/apidocs/
+_build/

@@ -8,6 +8,4 @@ documentation.
 :maxdepth: 2
 :caption: Contents:
 some-feature.md
-
-...
 apidocs/index
